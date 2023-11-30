@@ -14,13 +14,16 @@ The quickest way to get started with express is to utilize the executable expres
 Install the executable. The executable's major version will match Express's:
 
 $ npm install -g express-generator@4
+
 Create the app:
 
 $ express /tmp/foo && cd /tmp/foo
+
 Install dependencies:
 
-( $ npm install ) To dowload npm
+( $ npm install ) 
+
 Start the server:
 
-( $ npm start )To start your server
+( $ npm start )
 
