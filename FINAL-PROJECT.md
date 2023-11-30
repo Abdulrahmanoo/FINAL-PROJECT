@@ -26,4 +26,5 @@ Install dependencies:
 Start the server:
 
 ( $ npm start )
+----------------------
 ![img](https://www.freecodecamp.org/news/content/images/2022/06/ss1-5.png)
